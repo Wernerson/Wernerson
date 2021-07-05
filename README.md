@@ -1,13 +1,14 @@
 <h1 align="center">Hi there 👋, I'm Sebastian</h1>
 
 <h4 align="center">Professional Software Engineer</h4>
+<h4 align="center">Computer Science Student @ Zurich University for Applied Sciences</h4>
 
 <p align="center">
   <a href="https://github.com/Wernerson">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/sebastian-brunner-424157214/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://stackoverflow.com/users/5300473/spitzbueb?tab=profile">
     <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow" />
@@ -17,8 +18,8 @@
 <h2 align="center">❤ My Favorite Tech</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-A97BFF?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" />&nbsp;&nbsp;
@@ -33,6 +34,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Wernerson&include_all_commits=true&count_private=true&show_icons=true&line_height=20" alt="Sebastian's GitHub Contribution Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wernerson&layout=compact" alt="Sebastian's Language Stats" />
 </p>
+
 <!--
 **Wernerson/Wernerson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
