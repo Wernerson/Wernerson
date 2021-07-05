@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />&nbsp;&nbsp;
 </p>
 
 <h2 align="center">🗣️ Things I can recommend</h2>
@@ -32,6 +33,9 @@
   <img src="https://img.shields.io/badge/Cloudflare-F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Synology-B5B5B6.svg?style=for-the-badge&logo=synology&logoColor=white" alt="Synology" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/1Password-0094F5.svg?style=for-the-badge&logo=1password&logoColor=white" alt="1Password" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Brave-FB542B.svg?style=for-the-badge&logo=brave&logoColor=white" alt="Brave" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=for-the-badge&logo=raspberry%20pi&logoColor=white" alt="Raspberry Pi" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/DuckDuckGo-DE5833.svg?style=for-the-badge&logo=duckduckgo&logoColor=white" alt="DuckDuckGo" />&nbsp;&nbsp;
 </p>
   
 <h2 align="center">📊 GitHub Stats</h2>
