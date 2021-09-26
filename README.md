@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Sebastian</h1>
 
-<h4 align="center">Professional Software Engineer</h4>
+<h4 align="center">Professional Software Engineer @ mimacom ag</h4>
 <h4 align="center">Computer Science Student @ Zurich University for Applied Sciences</h4>
 
 <p align="center">
