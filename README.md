@@ -1,7 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Sebastian</h1>
 
-<h4 align="center">Professional Software Engineer @ mimacom ag</h4>
+<h4 align="center">Software Engineer @ mimacom ag</h4>
 <h4 align="center">Computer Science Student @ Zurich University for Applied Sciences</h4>
+
+<h5 align="center">Loves Kotlin, AI and all kinds of games — cyber security & privacy enthusiast</h5>
 
 <p align="center">
   <a href="https://github.com/Wernerson">
@@ -13,18 +15,20 @@
   <a href="https://stackoverflow.com/users/5300473/spitzbueb?tab=profile">
     <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow" />
   </a>
+  <a href="https://spitzbueb.medium.com/">
+    <img src="https://img.shields.io/badge/Medium-181717?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
 </p>
 
 <h2 align="center">❤ My Favorite Tech</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />&nbsp;&nbsp;
 </p>
 
