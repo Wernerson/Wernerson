@@ -1,9 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Sebastian</h1>
 
-<h4 align="center">Software Engineer @ mimacom ag</h4>
-<h4 align="center">Computer Science Student @ Zurich University for Applied Sciences</h4>
+<h4 align="center">Aspiring Researcher | Software Craftsman</h4>
+<h4 align="center">Machine Ingelligence Student @ ETH Zurich</h4>
 
-<h5 align="center">Loves Kotlin, AI and all kinds of games — cyber security & privacy enthusiast</h5>
+<h5 align="center">
+Aspiring AI Researcher & Passionate Software Craftsman with a flair for finance, privacy and all kinds of gamesAspiring AI Researcher & Passionate Software Craftsman with a flair for finance, privacy and all kinds of games
+</h5>
 
 <p align="center">
   <a href="https://github.com/Wernerson">
